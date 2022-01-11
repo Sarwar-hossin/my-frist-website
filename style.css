@@ -1,0 +1,106 @@
+h1{
+    font-family: 'Poppins', sans-serif;
+   font-weight: 800;
+   font-size: xx-large;    
+ } 
+h4{
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+.beginer-part{
+    background-image: url(shapes/shape-13.png);
+    background-repeat: no-repeat;
+    background-size: 80px;
+    
+}
+
+.mission{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+.orange-color{
+    color:rgb(255, 72, 0);
+}
+.flexible-container {
+    display: flex; 
+    margin-bottom:100px; 
+           
+}
+.half-width{
+    width: 50%;
+    padding-left: 7%;
+
+}
+
+.half-width image{
+    width: 80%;
+    margin-top: auto;
+}
+.button{  
+    text-decoration: none;
+    background-color: rgb(253, 58, 68);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+}
+.mission-item{
+    width: 40%;
+    margin-top: 3%;
+    margin-left:3%;
+    margin-right:4%;
+    padding-top:30px;
+    padding-left:30px;
+    padding-right:30px;
+    border-radius: 20px;
+    box-shadow: 10px 10px 40px gray;
+
+}
+.missions{
+    background-color: rgba(196, 245, 239, 0.61);
+}
+.vission{
+    background-color: rgba(228, 159, 159, 0.534);
+}
+.goals{
+    background-color: rgba(144, 238, 144, 0.404);
+}
+.development-part text{
+    padding-right: -20px;
+    margin-top: 50px;
+   
+}
+.development-part{
+    background-image: url(shapes/shape-11.png);
+    background-repeat: no-repeat;
+    background-size: 200px;
+}
+
+.build-app {
+    text-align: center;
+
+}
+.light-color{
+    color: rgb(39, 226, 133);
+}
+.safe-button{
+    text-decoration: none;
+    background-color: rgb(39, 226, 133);
+    padding: 10px 40px;
+    color: white;
+    font-weight: 700;
+    border-radius: 10px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+}
+.red-color{
+    color: rgb(226, 76, 39);
+}
